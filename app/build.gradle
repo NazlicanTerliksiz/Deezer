@@ -7,6 +7,10 @@ android {
     namespace 'com.nazlican.deezer'
     compileSdk 33
 
+    buildFeatures{
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId "com.nazlican.deezer"
         minSdk 24
