@@ -9,12 +9,17 @@
 
     <!-- Height Size -->
     <dimen name="height_100dp">100dp</dimen>
+    <dimen name="height_48dp">48dp</dimen>
+    <dimen name="height_84dp">84dp</dimen>
 
     <!-- Width Size -->
     <dimen name="width_2dp">2dp</dimen>
+    <dimen name="width_48dp">48dp</dimen>
+    <dimen name="width_84dp">84dp</dimen>
 
     <!-- Text Size -->
     <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
 
     <!-- Radius Size -->
     <dimen name="radius_8dp">8dp</dimen>
